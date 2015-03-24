@@ -9,7 +9,7 @@ work, corpus, canon
 
 **Method:** Natural Language Processing
 
-**Tools:** NLTK
+**Tools:** command line
 
 **Lab Assignment:** Weasel Words
 
