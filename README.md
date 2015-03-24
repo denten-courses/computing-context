@@ -18,7 +18,7 @@ work, corpus, canon
 **Readings:**
 Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
 Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American Statistical Association 58.302 (1963):
-275–309. JSTOR. Web. 24 Mar. 2015.
+275–309.
 
 **Ideas:** stem, lemma, frequency, collocation, model, bag of words
 
@@ -26,7 +26,17 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 
 **Lab Assignment:** Weasel Words II
 
-## Week 3: Sentiment
+## Week 3: Setting
+
+Reading:
+
+Ideas:
+
+Method: named entity extraction
+
+Lab Assignment: Around the World in 80 Days
+
+## Week 4: Sentiment
 
 Reading: 
 
@@ -35,16 +45,6 @@ Ideas:
 Method: sentiment analysis
 
 Lab Assignment: Hunting the Whale
-
-## Week 4: Setting
-
-Reading:
-
-Ideas:
-
-Method: named entity/location extraction
-
-Lab Assignment: Around the World in 80 Days
 
 ## Week 5: Influence
 
