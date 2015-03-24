@@ -1,13 +1,13 @@
 ## Week 1: Close Reading and Distant Reading
 
-Readings: Moretti, Franco, and Dominique Pestre.
+`Readings`: Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)."
 New Left Review 92 (2015): 75–99.
 
-Ideas: character, word, n-gram, sentence, line, paragraph, document, text,
+*Ideas:* character, word, n-gram, sentence, line, paragraph, document, text,
 work, corpus, canon
 
-Method: NLTK
+**Method:** NLTK
 
 Lab Assignment: Hunting the Whale
 
