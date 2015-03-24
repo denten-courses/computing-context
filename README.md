@@ -28,11 +28,18 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 
 ## Week 3: Setting
 
-Reading:
+*Reading:*
 
-Ideas:
+- Evans, Courtney, and Ben Jasnow. "[Mapping Homer’s Catalogue of
+  Ships](http://llc.oxfordjournals.org/content/29/3/317.full?sid=cefcbac0-66fb-4428-9617-7420a420f8a9)."
+Literary and Linguistic Computing 29.3 (2014): 317–325.  Web. 24 Mar. 2015.
 
-Method: named entity extraction
+- Moretti, Franco. “Graphs, Maps, Trees - 2.” New Left Review 26 (2004):
+  79–103. 
+
+*Ideas:*
+
+Method: named-entity recognition
 
 Lab Assignment: Around the World in 80 Days
 
