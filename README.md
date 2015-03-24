@@ -7,19 +7,24 @@ New Left Review 92 (2015): 75–99.
 **Ideas:** character, word, n-gram, sentence, line, paragraph, document, text,
 work, corpus, canon
 
-**Method:** NLTK
+**Method:** Natural Language Processing
 
-**Lab Assignment:** Hunting the Whale
+**Tools:** NLTK
+
+**Lab Assignment:** Weasel Words
 
 ## Week 2: Style
 
-Readings:
+**Readings:**
+Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
+Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American Statistical Association 58.302 (1963):
+275–309. JSTOR. Web. 24 Mar. 2015.
 
-Ideas: stem, lemma, frequency, model
+**Ideas:** stem, lemma, frequency, collocation, model, bag of words
 
-Method: NLTK
+**Method:** stylistics
 
-Lab Assignment: Weasel Words
+**Lab Assignment:** Weasel Words II
 
 ## Week 3: Sentiment
 
@@ -29,7 +34,7 @@ Ideas:
 
 Method: sentiment analysis
 
-Lab Assignment: Twitter Trends
+Lab Assignment: Hunting the Whale
 
 ## Week 4: Setting
 
