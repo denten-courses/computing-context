@@ -1,48 +1,54 @@
-## Week 1: Word
+## Week 1: Close Reading and Distant Reading
 
- - stem/lemma
- - doc
- - sentence
- - paragraph
- - ^^ all the different levels that nltk understands
- ex: word cloud (existing library)
+Readings: Moretti, Franco, and Dominique Pestre.
+"[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)."
+New Left Review 92 (2015): 75–99.
+
+Ideas: character, word, n-gram, sentence, line, paragraph, document, text,
+work, corpus, canon
+
+Method: NLTK
+
+Lab Assignment: Hunting the Whale
 
 ## Week 2: Style
 
- - "" authorship stuff too
- - models of author words
- - stopwords
- - 
- ex: weasel word; what are the words I use most often? How often do my
-sentences tend to be?
+Readings:
+
+Ideas: stem, lemma, frequency, model
+
+Method: NLTK
+
+Lab Assignment: Weasel Words
 
 ## Week 3: Sentiment
 
- - sentiment analysis
- ex: "hunting the whale"; all the words associated with animals and all the
-ones associated with humans, build simplistic model; modeling is what becomes
-important here
+Reading: 
+
+Ideas: 
+
+Method: sentiment analysis
+
+Lab Assignment: Twitter Trends
 
 ## Week 4: Setting
 
- - named entity/location extraction
- ex: map around the world in 80 days
+Reading:
+
+Ideas:
+
+Method: named entity/location extraction
+
+Lab Assignment: Around the World in 80 Days
 
 ## Week 5: Influence
 
- - network analysis
- ex: citations; plan on science surveyor. Do we want citations or ideas?
-Network X
+Method: network analysis
+
+Lab Assignment: Web of Science
 
 ## Week 6: Genre
 
- - topic modeling
- - supervised machine learning
- ex: this will be a more open ended; let them choose a corpus
+Method: topic modeling, supervised machine learning
 
-
-
-Thinking in terms of models; what does this model do, 
-reading, probably one computational reading and a short theoretical 
-they will get the assignments 
-ipython on windows?
+Lab Assignment: Final Project
