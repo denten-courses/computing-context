@@ -1,17 +1,16 @@
-## Week 1: Close Reading and Distant Reading
+## Week 1: Text
 
 **Readings:** Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)."
 New Left Review 92 (2015): 75–99.
 
-**Ideas:** character, word, n-gram, sentence, line, paragraph, document, text,
-work, corpus, canon
+**Ideas:** Close and distant reading
 
 **Method:** Natural Language Processing
 
 **Tools:** command line
 
-**Lab Assignment:** Weasel Words
+**Lab Assignment:** Weasel Words I
 
 ## Week 2: Style
 
@@ -20,7 +19,7 @@ Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
 Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American Statistical Association 58.302 (1963):
 275–309.
 
-**Ideas:** stem, lemma, frequency, collocation, model, bag of words
+**Ideas:** stem, lemma, frequency, collocation, model, bag of words, n-gram
 
 **Method:** stylistics
 
