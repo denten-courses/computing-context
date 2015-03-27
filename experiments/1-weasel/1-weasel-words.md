@@ -15,3 +15,5 @@ Using command line tools where possible perform the following actions.
 - Count frequency and sort by number
 - View the file, do you see any patterns?
 - output to weasel-count-YOURUNI.csv and submit
+- submit pseudo code along with a step by step bash script that achieves the
+above results

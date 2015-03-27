@@ -58,7 +58,8 @@ wc -m file.txt chars
 ### Putting all your fruits into one basket
 
 1. add your fruits  
-`   echo "orange banana pear banana pear orange apple apple strawberry" >
+`   echo "orange banana pear banana pear orange apple apple strawberry
+nectarine" >
 fruit.txt`
 
 2. add another one  
@@ -68,7 +69,11 @@ fruit.txt`
 `    sed 's/\s/\n/g'` (Linux)  
 `    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)  
 
-4. sort and count  
+4. remove bad fruit
+`    echo "nectarine" > bad-fruit.txt`
+`    cat fruit.txt | grep -vf bad-fruit.txt`
+
+5. sort and count  
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
