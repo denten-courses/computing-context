@@ -33,24 +33,26 @@ canon
 
 ## How to do things with words (command line)
 
-
 ### Finding your way
 ```
 mkdir project-name
 ls
-wget link
-cat file.txt
-pdftotext file.txt
-man man`
+pwd
+wget link/moby.pdf (use curl on macs)
+pdftotext moby.txt
+man man (q to exit)
+ls
 ```
 
 ### Popping the hood
 ```
+cat moby.txt
+cat moby.pdf
+xxd moby.txt
+xxd moby.pdf
 wc -w file.txt words
 wc -l file.txt lines
 wc -m file.txt chars
-cat file.txt
-cat file.pdf
 ```
 
 ### Putting all your eggs into one basket
@@ -60,44 +62,41 @@ cat file.pdf
 fruit.txt`
 
 2. add another one  
-`echo "banana"`
+`echo "banana" >> fruit.txt`
 
-3. substitute space for newlines 
+3. substitute space for newlines   
 
-for Linux:
+Linux: `sed 's/\s/\n/g'`  
 
-`sed 's/\s/\n/g'`
-
-for Mac: 
-
-sed 's/[[:space:]]/\'$'\n/g' fruits.txt
+Mac: `sed 's/[[:space:]]/\'$'\n/g' fruits.txt`  
 
 4. sort and count  
-`sort`  
-`uniq -c`
+`sort fruits.txt > sorted-fruits.txt`  
+`uniq -c sorted-fruits.txt`
 
-### rewriting moby dick
-1. find the whale  
-`grep "whale" file.txt`
+### rewriting moby dick  
+
+1. find the whale
+`grep "whale" moby.txt`
 
 2. substitute whale for chicken  
-`cat file.txt | sed 's/whale/chicken' > chicken.txt`
+`cat moby.txt | sed 's/whale/chicken' > chicken.txt`
 
 3. find the remaining whales  
-`grep "whale" chicken.txt`
+`grep "Whale" chicken.txt`
 
-4. remove punctuation  
-`tr -d "[:punct:]" < file.txt > file-nopunct.txt`
+4. remove punctuation
+`cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
 
 5. make all lower case  
-`tr [:upper:] [:lower:] < file-nopunct.txt > file-lowercase.txt`
+`cat moby-nopunct.txt | tr "[:upper:] [:lower:]" > moby-clean.txt`
 
 6. sort by word frequency  
 
-For Linux:
+Linux:
 
 `cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt
 
-For Mac:
+Mac:
 
-'cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt '
+`cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt`
