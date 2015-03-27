@@ -1,3 +1,9 @@
+Thursdays 2:40-3:55pm  
+w/ Professor Dennis Yi Tenen  
+Office Hours M&W 4-5pm  
+Philsophy Hall, 408e  
+email dt2406  
+
 ## [Week 1: Text](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-1.md)
 
 **Readings:** Moretti, Franco, and Dominique Pestre.
