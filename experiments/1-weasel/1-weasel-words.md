@@ -1,6 +1,7 @@
 ---
 title: "Weasel Words I"
 author: Dennis Tenen
+due: Friday 4/3 by midnight
 
 ---
 
