@@ -99,3 +99,5 @@ Mac:
 
 `    cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
 file_wc.txt`  
+
+`    cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt`
