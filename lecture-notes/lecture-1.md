@@ -66,9 +66,11 @@ fruit.txt`
 
 3. substitute space for newlines   
 
-`    sed 's/\s/\n/g'` (Linux)  
+Linux:  
+`    sed 's/\s/\n/g'`  
 
-`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)
+Mac:  
+`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt`
 
 4. sort and count  
 `    sort fruits.txt > sorted-fruits.txt`  
