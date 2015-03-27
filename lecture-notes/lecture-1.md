@@ -58,7 +58,7 @@ wc -m file.txt chars
 ### Putting all your fruits into one basket
 
 1. add your fruits  
-`   echo "orange banana pear banana pear orange apple apple strawberry
+`   echo "orange banana pear tomato banana pear orange apple apple strawberry
 nectarine" >
 fruit.txt`
 
@@ -71,7 +71,9 @@ fruit.txt`
 
 4. remove bad fruit  
 `    echo "nectarine" > bad-fruit.txt`  
+`    echo "tomato" >> bad-fruit.txt`  
 `    cat fruit.txt | grep -vf bad-fruit.txt`  
+`    cat fruit.txt` (to see if it worked)  
 
 5. sort and count  
 `    sort fruits.txt > sorted-fruits.txt`  
