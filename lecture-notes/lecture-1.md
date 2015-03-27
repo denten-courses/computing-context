@@ -55,7 +55,7 @@ wc -l file.txt lines
 wc -m file.txt chars
 ```
 
-### Putting all your eggs into one basket
+### Putting all your fruits into one basket
 
 1. add your fruits  
 `   echo "orange banana pear banana pear orange apple apple strawberry" >
