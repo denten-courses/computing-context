@@ -10,7 +10,7 @@ New Left Review 92 (2015): 75–99.
 
 **Tools:** command line
 
-**Lab Assignment:** Weasel Words I
+**Lab Assignment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel)
 
 ## Week 2: Style
 
