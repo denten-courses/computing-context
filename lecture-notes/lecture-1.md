@@ -72,7 +72,7 @@ fruit.txt`
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
-### rewriting moby dick  
+### Rewriting *Moby Dick*  
 
 1. find the whale  
 `    grep "whale" moby.txt`
