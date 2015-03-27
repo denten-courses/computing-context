@@ -95,6 +95,5 @@ Mac:
 
 6. sort by word frequency  
 `    cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`  
-
 `    cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
 file_wc.txt` (Mac)
