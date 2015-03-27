@@ -65,13 +65,13 @@ fruit.txt`
 2. add another one  
 `    echo "banana" >> fruit.txt`
 
-3. substitute space for newlines   
+3. substitute space for newlines  
 `    sed 's/\s/\n/g'` (Linux)  
 `    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)  
 
-4. remove bad fruit
-`    echo "nectarine" > bad-fruit.txt`
-`    cat fruit.txt | grep -vf bad-fruit.txt`
+4. remove bad fruit  
+`    echo "nectarine" > bad-fruit.txt`  
+`    cat fruit.txt | grep -vf bad-fruit.txt`  
 
 5. sort and count  
 `    sort fruits.txt > sorted-fruits.txt`  
