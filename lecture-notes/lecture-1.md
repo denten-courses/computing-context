@@ -62,8 +62,15 @@ fruit.txt`
 2. add another one  
 `echo "banana"`
 
-3. substitute space for newlines  
+3. substitute space for newlines 
+
+for Linux:
+
 `sed 's/\s/\n/g'`
+
+for Mac: 
+
+sed 's/[[:space:]]/\'$'\n/g' fruits.txt
 
 4. sort and count  
 `sort`  
@@ -74,7 +81,7 @@ fruit.txt`
 `grep "whale" file.txt`
 
 2. substitute whale for chicken  
-`cat file.txt | sed 's/whale/chicken' > chicken.txti`
+`cat file.txt | sed 's/whale/chicken' > chicken.txt`
 
 3. find the remaining whales  
 `grep "whale" chicken.txt`
@@ -86,4 +93,11 @@ fruit.txt`
 `tr [:upper:] [:lower:] < file-nopunct.txt > file-lowercase.txt`
 
 6. sort by word frequency  
-`cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
+
+For Linux:
+
+`cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt
+
+For Mac:
+
+'cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt '
