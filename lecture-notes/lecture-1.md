@@ -65,12 +65,8 @@ fruit.txt`
 `    echo "banana" >> fruit.txt`
 
 3. substitute space for newlines   
-
-Linux:  
-`    sed 's/\s/\n/g'`  
-
-Mac:  
-`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt`
+`    sed 's/\s/\n/g'` (Linux)  
+`    sed 's/[[:space:]]/\'$'\n/g' fruits.txt` (Mac)  
 
 4. sort and count  
 `    sort fruits.txt > sorted-fruits.txt`  
@@ -94,6 +90,7 @@ Mac:
 `    cat moby-nopunct.txt | tr "[:upper:] [:lower:]" > moby-clean.txt`
 
 6. sort by word frequency  
-`    cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`  
+`    cat file.txt | sed 's/\s/\n/g' | sort | uniq -c | sort -hr > test.txt`
+(Linux)  
 `    cat file.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 >
 file_wc.txt` (Mac)
