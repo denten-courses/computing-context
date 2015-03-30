@@ -16,7 +16,7 @@ New Left Review 92 (2015): 75–99.
 
 **Tools:** command line
 
-**Lab Assignment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel)
+**Lab Assignment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel). Due Monday, April 6 by midnight.
 
 ## Week 2: Style
 
