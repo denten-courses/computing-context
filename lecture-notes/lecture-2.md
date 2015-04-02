@@ -11,6 +11,8 @@ mkdir project-name
 ls
 cd ~
 pwd
+cd -
+pwd
 wget link/moby.pdf (use curl on macs)
 pdftotext moby.txt
 man man (q to exit)
