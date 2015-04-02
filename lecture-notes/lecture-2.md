@@ -4,7 +4,7 @@
 
 ### Finding your way
 
-Concepts: files and folders, projects, home directory.
+> Concepts: files and folders, projects, home directory.
 
 ```
 mkdir project-name
@@ -19,7 +19,7 @@ ls
 
 ### Popping the hood
 
-Concepts: plain text and binary formats, bits and bytes, form and content,
+> Concepts: plain text and binary formats, bits and bytes, form and content,
 pipes
 
 ```
@@ -36,8 +36,8 @@ man wc
 
 ### Putting all your fruits into one basket
 
-Concepts: lines and words, destructing vs. non-destructive transformations
-(munging), more pipes
+> Concepts: lines and words, destructing vs. non-destructive transformations
+> (munging), more pipes
 
 1. add your fruits  
 `   echo "orange banana pear tomato banana pear orange apple apple strawberry nectarine" > fruit.txt`
@@ -57,12 +57,13 @@ Concepts: lines and words, destructing vs. non-destructive transformations
 
 5. sort and count  
 
-Concepts: dataflow programming, bag of words, stop words
 
 `    sort fruits.txt > sorted-fruits.txt`  
 `    uniq -c sorted-fruits.txt`  
 
 ### Rewriting *Moby Dick*  
+
+> Concepts: dataflow programming, bag of words, stop words
 
 1. find the whale  
 `    grep "whale" moby.txt`
