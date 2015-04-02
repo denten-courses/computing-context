@@ -15,8 +15,9 @@ cd -
 pwd
 wget link/moby.pdf (use curl on macs)
 pdftotext moby.txt
-man man (q to exit)
 ls
+man man (q to exit)
+man wget
 ```
 
 ### Popping the hood
