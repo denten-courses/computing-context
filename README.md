@@ -16,8 +16,8 @@ New Left Review 92 (2015): 75–99.
 
 ## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
-**Readings**: [Facing the Language
-Challenge](http://www.nltk.org/book/ch12.html) from *[Natural Language
+**Readings**: "[Facing the Language
+Challenge](http://www.nltk.org/book/ch12.html)" from *[Natural Language
 Processing with Python](www.nltk.org/book/)* by Steven Bird, Ewan Klein and
 Edward Loper.
 
