@@ -1,4 +1,4 @@
-# Lecture 1: Text
+# Lecture 2: Style
 
 ## How to do things with words (command line)
 
