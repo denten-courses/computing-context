@@ -25,9 +25,8 @@ Edward Loper.
 formats, bits and bytes, form and content, pipes, lines and words, destructive
 vs. non-destructive transformations (data munging), dataflow programming, bag of words, stop words
 
-**Method:** Natural Language Processing
-
-**Tools:** command line
+**Method & Tools:** Natural Language Processing, command line, basic unix
+utilities
 
 ## Week 3: Style
 
