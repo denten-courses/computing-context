@@ -28,6 +28,7 @@ pipes
 ```
 cat moby.txt
 cat moby.pdf
+clear
 xxd moby.txt
 xxd moby.pdf
 echo "how many words does it take?" > test.txt
