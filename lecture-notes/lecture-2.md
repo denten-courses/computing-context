@@ -1,4 +1,4 @@
-# Lecture 2: Style
+# Lecture 2: Word
 
 ## How to do things with words (command line)
 
