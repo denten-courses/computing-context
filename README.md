@@ -18,7 +18,7 @@ New Left Review 92 (2015): 75–99.
 
 **Readings**: "[Facing the Language
 Challenge](http://www.nltk.org/book/ch12.html)" from *[Natural Language
-Processing with Python](www.nltk.org/book/)* by Steven Bird, Ewan Klein and
+Processing with Python](http://www.nltk.org/book/)* by Steven Bird, Ewan Klein and
 Edward Loper.
 
 **Ideas**: files and folders, projects, home directory, plain text and binary
