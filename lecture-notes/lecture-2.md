@@ -4,7 +4,7 @@
 
 ### Finding your way
 
-> Concepts: files and folders, projects, home directory.
+> files and folders, projects, home directory.
 
 ```
 mkdir project-name
@@ -19,7 +19,7 @@ ls
 
 ### Popping the hood
 
-> Concepts: plain text and binary formats, bits and bytes, form and content,
+> plain text and binary formats, bits and bytes, form and content,
 pipes
 
 ```
@@ -36,7 +36,7 @@ man wc
 
 ### Putting all your fruits into one basket
 
-> Concepts: lines and words, destructing vs. non-destructive transformations
+> lines and words, destructing vs. non-destructive transformations
 > (munging), more pipes
 
 1. add your fruits  
@@ -63,7 +63,7 @@ man wc
 
 ### Rewriting *Moby Dick*  
 
-> Concepts: dataflow programming, bag of words, stop words
+> dataflow programming, bag of words, stop words
 
 1. find the whale  
 `    grep "whale" moby.txt`
