@@ -36,7 +36,7 @@ man wc
 
 ### Putting all your fruits into one basket
 
-> lines and words, destructing vs. non-destructive transformations
+> lines and words, destructive vs. non-destructive transformations
 > (munging), more pipes
 
 1. add your fruits  

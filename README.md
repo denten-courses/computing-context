@@ -12,13 +12,19 @@ New Left Review 92 (2015): 75–99.
 
 **Ideas:** Close and distant reading
 
+**Lab Assignment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel). Due Monday, April 6 by midnight.
+
+## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
+
+**Ideas**: files and folders, projects, home directory, plain text and binary
+formats, bits and bytes, form and content, pipes, lines and words, destructive
+vs. non-destructive transformations (data munging), dataflow programming, bag of words, stop words
+
 **Method:** Natural Language Processing
 
 **Tools:** command line
 
-**Lab Assignment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel). Due Monday, April 6 by midnight.
-
-## Week 2: Style
+## Week 3: Style
 
 **Readings:**
 Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
@@ -31,7 +37,7 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 
 **Lab Assignment:** Weasel Words II
 
-## Week 3: Setting
+## Week 4: Setting
 
 *Reading:*
 
@@ -49,7 +55,7 @@ Method: named-entity recognition
 
 Lab Assignment: Around the World in 80 Days
 
-## Week 4: Sentiment
+## Week 5: Sentiment
 
 Reading: 
 
@@ -59,13 +65,13 @@ Method: sentiment analysis
 
 Lab Assignment: Hunting the Whale
 
-## Week 5: Influence
+## Week 6: Influence
 
 Method: network analysis
 
 Lab Assignment: Web of Science
 
-## Week 6: Genre
+## Week 7: Genre
 
 Method: topic modeling, supervised machine learning
 
