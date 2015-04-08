@@ -2,14 +2,14 @@
 
 ## Package Management using Package Management
 
-\# install pip
-`sudo easy_install pip` (Mac)  
-`sudo apt-get install pip` (Ubuntu/Debian)
+\# install pip  
+`sudo easy_install pip` (Mac)    
+`sudo apt-get install pip` (Ubuntu/Debian)  
 
-\# what is sudo?
+\# what is sudo?  
 
-\# install nltk
-`sudo pip install -U numpy`
-`sudo pip install nltk`
+\# install nltk  
+`sudo pip install -U numpy`  
+`sudo pip install nltk`  
 
-\# what is a library?
+\# what is a library?  
