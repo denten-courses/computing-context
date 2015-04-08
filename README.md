@@ -35,9 +35,9 @@ Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
 Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American Statistical Association 58.302 (1963):
 275–309.
 
-**Ideas:** stem, lemma, frequency, collocation, model, bag of words, n-gram
+**Ideas:** stem, lemma, bag of words, n-gram, frequency, collocation, model
 
-**Method:** stylistics
+**Method & Tools:** stylistics, iPython, NLTK
 
 **Lab Assignment:** Weasel Words II
 
