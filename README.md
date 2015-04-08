@@ -28,7 +28,7 @@ vs. non-destructive transformations (data munging), dataflow programming, bag of
 **Method & Tools:** Natural Language Processing, command line, basic unix
 utilities
 
-## Week 3: Style
+## [Week 3: Style](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-3.md)
 
 **Readings:**
 Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
