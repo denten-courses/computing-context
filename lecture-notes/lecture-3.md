@@ -8,8 +8,15 @@
 
 \# what is sudo?  
 
+## Libraries
+
 \# install nltk  
 `sudo pip install -U numpy`  
 `sudo pip install nltk`  
 
-\# what is a library?  
+\# what is a library?
+
+## IPython way of life  
+## Getting started with NLTK  
+
+
