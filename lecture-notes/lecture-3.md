@@ -16,7 +16,18 @@
 
 \# what is a library?
 
-## IPython way of life  
 ## Getting started with NLTK  
+\#
+\#
+\#
+\#
+\#
+
+## IPython way of life  
+\#
+\#
+\#
+\#
+\#
 
 
