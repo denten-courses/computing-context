@@ -40,6 +40,8 @@ sents()
 text1
 text2
 
+# iPython friends <tab> and ?
+
 # concordance and other methods
 text1.condordance("awesome")
 text1.similar("monstrous")
