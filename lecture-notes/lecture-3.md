@@ -37,7 +37,6 @@ nltk.download()
 # EDA (explore)
 texts()
 sents()
-words()
 text1
 text2
 
@@ -48,11 +47,33 @@ text1.similar("monstrous")
 # other words?
 
 # common contexts
-text2.common_contexts(["whale", "captain"])
+text1.common_contexts(["whale", "captain"])
 
 # plotting
-text4.dispersion_plot(["whale", "captain", "ship", "pulpit"])
+text1.dispersion_plot(["whale", "captain", "ship", "pulpit"])
 
+# tokens (words or distinct strings)
+# includes things like :)
+len(text1)
+
+# types (unique words)
+text1.count("whale")
+len(text1)
+sorted(set(text1))
+len(set(text1))
+
+# lexical richness
+# tokens / types ratio
+from __future__ import division
+len(text1)/len(set(text1))
+
+# collocations
+text3.collocations()
+
+# bigrams
+a = "He who is not courageous enough to take risks will accomplish nothing in life."
+tokens = a.split()
+bigrams(tokens)
 ```
 ## IPython way of life
 
@@ -73,10 +94,6 @@ text4.dispersion_plot(["whale", "captain", "ship", "pulpit"])
 ctrl-z
 fg
 ```
-
-
-
-
 
 \*<sup>Several examples and excersises are borrowed from S. Bird, E. Klein, and
 E. Loper, Natural Language Processing with Python. Cambridge Mass.: O’Reilly
