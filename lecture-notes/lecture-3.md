@@ -26,7 +26,7 @@ $ sudo pip install matplotlib
 ```
 $ ipython
 
-# from here on everythin is in iPython
+# from here on everything is in iPython
 # import the library and dowload a corpus
 import nltk
 nltk.download()
