@@ -10,7 +10,7 @@ sudo apt-get install pip` (Ubuntu/Debian)
 # what is sudo?
 ```
 
-## Libraries
+## Libraries and frameworks
 
 ```
 # install nltk
@@ -18,7 +18,7 @@ $ sudo pip install -U numpy
 $ sudo pip install nltk
 $ sudo pip install matplotlib
 
-# what is a library?
+# what is a library? what is a framework?
 ```
 
 ## Getting started with NLTK**
