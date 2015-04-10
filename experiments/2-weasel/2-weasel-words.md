@@ -18,7 +18,7 @@ a series of steps in pseudo-code.
 1. Use NLTK to load in the corpus and write a program that will output a list
 of common weasel words into a .csv file.
 
-2. Remake [*Weasel Words I*](https://github.com/denten-courses/computing-context/blob/master/experiments/1-weasel/1-weasel-words.md). Put all of your essay words into the bag. Subtract
+2. Remake [*Weasel Words I*](https://github.com/denten-courses/computing-context/blob/master/experiments/1-weasel/1-weasel-words.md) using Python NLTK. Put all of your essay words into the bag. Subtract
 words found only in your essay (and not in the class corpus). Subtract common
 English words to derive true weasels.
 
