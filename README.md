@@ -41,7 +41,7 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 
 **Lab Assignment:** [Weasel Words
 II](https://github.com/denten-courses/computing-context/blob/master/experiments/2-weasel/2-weasel-words.md).
-Due Monday, April 20th by midnight.
+Due Monday, April 20th by midnight. Start on [Automatic Essay Grader](https://github.com/denten-courses/computing-context/blob/master/experiments/3-essay-grade/3-essay-grade.md), due Monday, April 27 by midnight.
 
 ## Week 4: Setting
 
