@@ -16,7 +16,11 @@ a series of steps in pseudo-code.
 ## Experiment
 
 1. Use NLTK to load in the corpus and write a program that will output a list
-of class-wide weasel words into a .csv file. Remember that we are not just trying to find common words, but a special sub-class of pernicious common words. Think of other approaches you can take here (for example, creating a list of weasel stop-words by hand and then looking for them in your corpus).
+of class-wide weasel words into a .csv file. Remember that we are not just
+trying to find common words, but a special sub-class of pernicious common
+words. Think of other approaches you can take here (for example, creating a
+list of weasel stop-words by hand and then looking for them in your corpus).
+How else can we define "pernicious" and "weasel" algorithmically?
 
 2. Remake [*Weasel Words I*](https://github.com/denten-courses/computing-context/blob/master/experiments/1-weasel/1-weasel-words.md) using Python NLTK. Put all of your essay words into the bag. Subtract
 words found only in your essay (and not in the class corpus). Subtract common
