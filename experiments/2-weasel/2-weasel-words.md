@@ -13,6 +13,8 @@ our class and then to use those results to improve on the code we wrote for
 WWI. How might you go about doing that? Start by breaking the problem down into
 a series of steps in pseudo-code.
 
+## Experiment
+
 1. Use NLTK to load in the corpus and write a program that will output a list
 of common weasel words into a .csv file.
 
