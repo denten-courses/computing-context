@@ -14,11 +14,12 @@ Create an automatic essay grader.
 As usual, start with writing a model in pseudo-code. Create at least three
 parameters (sentence length variation, lexical diversity, etc.) for grading.
 Come up with a reasonable way of averaging individual scores to give each essay
-a grade on the scale of 1-100. Run the corpus of class essays through your
-grader. Output the results to a .csv file (that should include scores along
-each parameter and the averaged "total score" for each student). Create a
-graphic visualizing score distributions for the class as a whole. Apply a curve
-if necessary.
+a grade on the scale of 1-100. Run the [corpus of class
+essays](https://courseworks.columbia.edu/access/content/group/CSENW1002_001_2015_1/Course%20Materials/Digital%20Humanities/scripts/4-10/papers.zip)
+through your grader. Output the results to a .csv file (that should include
+scores along each parameter and the averaged "total score" for each student).
+Create a graphic visualizing score distributions for the class as a whole.
+Apply a curve if necessary.
 
 Your code comments should include a description of your model at
 the beginning of the file. What assumptions or biases does it imply? Spot check
