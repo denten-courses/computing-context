@@ -26,5 +26,5 @@ a few essays by hand (concentrate on the ones with really high and really low
 grades). How does your automatic grader correspond to your intuitions about
 these essays?
 
-Submit an annotated .py files, your .csv results, and any associated graphic files.
+Submit your annotated .py files, your .csv results, and any associated graphics.
 
