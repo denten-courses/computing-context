@@ -18,14 +18,13 @@ a series of steps in pseudo-code.
 1. Use NLTK to load in the corpus and write a program that will output a list
 of common weasel words into a .csv file.
 
-2. Remake *Weasel Words I*. Put all of your essay words into the bag. Subtract
+2. Remake [*Weasel Words I*](https://github.com/denten-courses/computing-context/blob/master/experiments/1-weasel/1-weasel-words.md) using Python NLTK. Put all of your essay words into the bag. Subtract
 words found only in your essay (and not in the class corpus). Subtract common
 English words to derive true weasels.
 
 Submit your annotated code (.py) along with your results (.csv). Write a
-paragraph (early in your code comments) describing your model. What assumptions
-or biases does it imply? Once you get results, write a few sentences (in your
-code comments, towards the end of the file) describing any insights you gained
+paragraph (as a comment on top of your code) describing your model. What assumptions
+or biases does it imply? Once you get results, write a few sentences describing any insights you gained
 from your results. What are the weasel words common to the class? How do the
 class results differ from your personal ones? Were you able to improve on our
 model in WWI?
