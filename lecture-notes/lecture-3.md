@@ -10,7 +10,7 @@ sudo apt-get install pip` (Ubuntu/Debian)
 # what is sudo?
 ```
 
-## Libraries
+## Libraries and frameworks
 
 ```
 # install nltk
@@ -18,7 +18,7 @@ $ sudo pip install -U numpy
 $ sudo pip install nltk
 $ sudo pip install matplotlib
 
-# what is a library?
+# what is a library? what is a framework?
 ```
 
 ## Getting started with NLTK**
@@ -26,7 +26,7 @@ $ sudo pip install matplotlib
 ```
 $ ipython
 
-# from here on everythin is in iPython
+# from here on everything is in iPython
 # import the library and dowload a corpus
 import nltk
 nltk.download()
@@ -39,6 +39,8 @@ texts()
 sents()
 text1
 text2
+
+# iPython friends <tab> and ?
 
 # concordance and other methods
 text1.condordance("awesome")
