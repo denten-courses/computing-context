@@ -39,7 +39,9 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 
 **Method & Tools:** stylistics, iPython, NLTK
 
-**Lab Assignment:** Weasel Words II
+**Lab Assignment:** [Weasel Words
+II](https://github.com/denten-courses/computing-context/blob/master/experiments/2-weasel/2-weasel-words.md).
+Due Monday, April 20th by midnight.
 
 ## Week 4: Setting
 
