@@ -5,7 +5,7 @@ due: Monday 4/20 by midnight
 
 ---
 
-Just looking at the list of most commonly used words catches overused verbal
+Challenge: Just looking at the list of most commonly used words catches overused verbal
 ticks along with the *topic* of the essay. How do we separate the two? The
 challenge of this assignment is to derive a list of weasel words *common* to
 our class and then to use those results to improve on the code we wrote for
