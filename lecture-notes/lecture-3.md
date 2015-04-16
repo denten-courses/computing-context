@@ -1,4 +1,4 @@
-# Lecture 2: Style
+# Lecture 3: Style
 
 ## Package Management using Package Management
 
