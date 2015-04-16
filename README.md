@@ -43,7 +43,8 @@ Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American
 II](https://github.com/denten-courses/computing-context/blob/master/experiments/2-weasel/2-weasel-words.md).
 Due Monday, April 20th by midnight. Start on [Automatic Essay Grader](https://github.com/denten-courses/computing-context/blob/master/experiments/3-essay-grade/3-essay-grade.md), due Monday, April 27 by midnight.
 
-## Week 4: Setting
+## [Week 4:
+Setting](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-4.md)
 
 *Reading:*
 
@@ -53,9 +54,9 @@ Literary and Linguistic Computing 29.3 (2014): 317–325.  Web. 24 Mar. 2015.
 
 - Moretti, Franco. “Graphs,
 [Maps](http://newleftreview.org/II/26/franco-moretti-graphs-maps-trees-2), Trees - 2.” New Left Review 26 (2004):
-  79–103. 
+  79–103.
 
-*Ideas:*
+*Ideas:* more on stems, lemmas, n-grams, bag of words, named entities
 
 Method: named-entity recognition
 

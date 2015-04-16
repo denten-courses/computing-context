@@ -1,102 +1,52 @@
-# Lecture 2: Style
+# Lecture 4: Setting
 
-## Package Management using Package Management
+## Anatomy of the Corpus
 
+Isolated, Categorized, Tagged, Temporal
+
+## Tokens
 ```
-# install pip
-sudo easy_install pip` (Mac)
-sudo apt-get install pip` (Ubuntu/Debian)
-
-# what is sudo?
-```
-
-## Libraries and frameworks
-
-```
-# install nltk
-$ sudo pip install -U numpy
-$ sudo pip install nltk
-$ sudo pip install matplotlib
-
-# what is a library? what is a framework?
-```
-
-## Getting started with NLTK**
-
-```
-$ ipython
-
-# from here on everything is in iPython
-# import the library and dowload a corpus
 import nltk
+
 nltk.download()
 
-# import book corpus
-`from nltk.book import *
+from nltk.book import *
 
-# EDA (explore)
-texts()
-sents()
-text1
-text2
-
-# iPython friends <tab> and ?
-
-# concordance and other methods
-text1.condordance("awesome")
-text1.similar("monstrous")
-
-# other words?
-
-# common contexts
-text1.common_contexts(["whale", "captain"])
-
-# plotting
-text1.dispersion_plot(["whale", "captain", "ship", "pulpit"])
-
-# tokens (words or distinct strings)
-# includes things like :)
+# Token (word)
+tokens = text1.tokens
 len(text1)
 
-# types (unique words)
-text1.count("whale")
-len(text1)
-sorted(set(text1))
-len(set(text1))
+# Type (vocab)
+words = text1.vocab()
+len(words)
+words?
 
-# lexical richness
-# tokens / types ratio
-from __future__ import division
-len(text1)/len(set(text1))
+types = words.keys()
+types?
 
-# collocations
-text3.collocations()
-
-# bigrams
-a = "He who is not courageous enough to take risks will accomplish nothing in life."
-tokens = a.split()
-bigrams(tokens)
-```
-## IPython way of life
-
-```
-# magic commands
-%save moby-session 10-20 23
-%save -a[append]
-%cd
-%dhist
-%edit
-%history 20
-%pylab
-%run filename.py
-%timeit
 %who
 
-# more shell friends
-ctrl-z
-fg
+# Lets build our own stemmer
+stems = []
+suffixes = ['ed','ly','s']
+
+for suffix in suffixes:
+    for type in types:
+        if type.endswith(suffix):
+            stems.append(type[:-len(suffix)])
+
+# Munging
+f = open('lemmas.txt', 'w')
+f.writelines("%s\n" % stem for stem in stems)
+f.close()
+
+# Built-in Stemmers
+snowball = nltk.SnowballStemmer("english")
+snowstems = [snowball.stem(t) for t in tokens]
+
+# Lemma
+wnl = nltk.WordNetLemmatizer()
+lemmas = [wnl.lemmatize(t) for t in tokens]
 ```
 
-\*<sup>Several examples and excersises are borrowed from S. Bird, E. Klein, and
-E. Loper, Natural Language Processing with Python. Cambridge Mass.: O’Reilly
-Media, 2009.
+## Extracting relations
