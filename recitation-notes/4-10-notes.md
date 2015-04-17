@@ -48,6 +48,7 @@ wordlists = PlaintextCorpusReader(corpus_root,'.*\.txt',word_tokenizer=tokes)
 	corp.words('filename.txt') #returns all words in corpus text with name 'filename.txt'
 	corp.words(list_of_names) #returns all words in corpus texts with names contained in list variable list_of_names
 	corp.sents()
+    corp.fileids()
 ```
 
 #Stop words
