@@ -76,11 +76,7 @@ Reviews](http://apps.webofknowledge.com.ezproxy.cul.columbia.edu/full_record.do?
 Decision Support Systems 53, no. 4 (November 2012): 754–60. 
 
 
-Ideas: 
-
 Method: sentiment analysis
-
-Lab Assignment: Hunting the Whale
 
 ## Week 6: Influence
 
