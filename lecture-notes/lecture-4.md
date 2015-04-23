@@ -164,5 +164,5 @@ from nltk.tag.stanford import NERTagger
 st = NERTagger("/usr/share/stanford-ner/classifiers/all.3class.distsim.crf.ser.gz",
 "/usr/share/stanford-ner/stanford-ner.jar")
 
-raw = "Emma Watdon is attending Columbia University in New York"
+raw = "Emma Watson is attending Columbia University in New York"
 st.tag(raw.split())
