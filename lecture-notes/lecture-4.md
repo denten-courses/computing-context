@@ -160,9 +160,10 @@ from nltk.tag.stanford import NERTagger
 # http://nlp.stanford.edu/software/stanford-ner-2014-06-16.zip
 # unzip the file
 
-# make sure you get this path right!
-st = NERTagger("/usr/share/stanford-ner/classifiers/all.3class.distsim.crf.ser.gz",
-"/usr/share/stanford-ner/stanford-ner.jar")
+# The path should point to the unzipped folder, for example ~/Downloads/stanford-ner-2014-06-16/... Replace "path/to" below with the path to this folder
+st = NERTagger("path/to/stanford-ner-2014-06-16/classifiers/all.3class.distsim.crf.ser.gz",
+"/path/to/stanford-ner-2014-06-16/stanford-ner.jar")
 
+# example of use on string
 raw = "Emma Watson is attending Columbia University in New York"
 st.tag(raw.split())
