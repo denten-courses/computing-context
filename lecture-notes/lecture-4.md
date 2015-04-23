@@ -38,7 +38,7 @@ for suffix in suffixes:
         if type.endswith(suffix):
             stems.append(type[:-len(suffix)])
 
-## more tokens
+# more tokens
 
 raw = "I wanted her to stay at home and rest this morning, but she would come \
 with us; she longed so much to see you all! She ran runs running ruin ruining.\
