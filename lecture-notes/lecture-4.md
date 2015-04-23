@@ -35,18 +35,3 @@ for suffix in suffixes:
         if type.endswith(suffix):
             stems.append(type[:-len(suffix)])
 
-# Munging
-f = open('lemmas.txt', 'w')
-f.writelines("%s\n" % stem for stem in stems)
-f.close()
-
-# Built-in Stemmers
-snowball = nltk.SnowballStemmer("english")
-snowstems = [snowball.stem(t) for t in tokens]
-
-# Lemma
-wnl = nltk.WordNetLemmatizer()
-lemmas = [wnl.lemmatize(t) for t in tokens]
-```
-
-## Extracting relations
