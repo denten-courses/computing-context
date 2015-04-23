@@ -5,6 +5,8 @@
 Isolated, Categorized, Tagged, Temporal
 
 
+## Building the Pipeline
+
 ```
 # tokens
 import nltk
