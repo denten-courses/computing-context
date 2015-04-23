@@ -59,7 +59,10 @@ Literary and Linguistic Computing 29.3 (2014): 317–325.  Web. 24 Mar. 2015.
 
 Method: named-entity recognition
 
-Lab Assignment: Around the World in 80 Days
+Lab Assignment: Go through the lecture notes for this week. Make sure you
+understand each step. A small homework: download "[Around the World in 80
+days](www.gutenberg.org/cache/epub/103/pg103.txt)"
+by Jules Verne. Extract place names. Submit `.csv` along with your code.
 
 ## Week 5: Sentiment
 
