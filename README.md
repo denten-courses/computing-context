@@ -77,8 +77,8 @@ Decision Support Systems 53, no. 4 (November 2012): 754–60.
 
 Method: sentiment analysis
 
-## [Week 6: Next
-Steps](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-6.md)
+## [Week 6: Next Steps](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-6.md)
+
 - Improving the Essay Grader
 - Case Studies from the [Lab](http://xpmethod.plaintext.in/strains.html)
 - Take home challenges
