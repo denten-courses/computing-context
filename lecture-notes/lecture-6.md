@@ -18,7 +18,7 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 and computation. "If you have to do it more than ~~once~~ one hundred times,
 automate it." Writing, research, self-presentation.
 
-2. Some of my favorite books in Computer Science for beginners.<sup>1</sup>, <sup>2</sup>, <sup>3</sup>, <sup>4</sup>, <sup>5</sup>
+2. Some of my favorite books in Computer Science for beginners.<sup>1,</sup><sup>2,</sup><sup>3,</sup><sup>4,</sup><sup>5</sup>
 
 3. Local resources
 
