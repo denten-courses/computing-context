@@ -37,6 +37,21 @@ Creative Problem Solving*. San Francisco: No Starch Press, 2012.
 <sup>5</sup> Shiffman, Daniel. *The Nature of Code: Simulating Natural Systems
 with Processing.** 2012.  
 
-### Local resources. Courses, meetups, online.
+### Local resources
+
+- Courses
+- Meetups
+- Online
+
+### Notes
+
+1. Programming is a mindset.
+2. Unless you plan to become a proffesional programmer, think of it as the
+"special sauce." It will enchance any other field of activity, from making to
+music to being lawyer or a physician.
+3. Refuse blackboxes.
+4. Small things matter.
+5. Stay in touch!
+
 
 
