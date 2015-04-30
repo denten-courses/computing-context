@@ -18,15 +18,23 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 and computation. "If you have to do it more than ~~once~~ one hundred times,
 automate it." Writing, research, self-presentation.
 
+Challenges:
+- write a paper in [Pandoc +
+  Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+- put a project up on [GitHub](http://gitimmersion.com/)
+- Make a [website](http://jekyllrb.com/)
+- Keep a [logbook](https://github.com/denten/dhnotes/wiki).
+
 2. Some of my favorite books in Computer Science for beginners.<sup>1,</sup><sup>2,</sup><sup>3,</sup><sup>4,</sup><sup>5</sup>
 
-3. Local resources
+3. Local resources. Courses, meetups, online.
 
 <sup>1</sup> Kernighan, Brian. *D Is for Digital*. Brian W. Kernighan, 2012.  
 <sup>2</sup> Petzold, Charles. *Code: The Hidden Language of Computer Hardware
 and Software*. Redmond, Wash.: Microsoft Press, 2000.  
 <sup>2</sup> ———. *The Annotated Turing*. Indianapolis, IN: Wiley, 2008.  
-<sup>4</sup> Spraul, V. Anton. *Think Like a Programmer: An Introduction to Creative Problem Solving. San Francisco: No Starch Press, 2012.  
+<sup>4</sup> Spraul, V. Anton. *Think Like a Programmer: An Introduction to
+Creative Problem Solving*. San Francisco: No Starch Press, 2012.  
 <sup>5</sup> Shiffman, Daniel. *The Nature of Code: Simulating Natural Systems
-with Processing.**  s.l.: The Nature of Code, 2012.  
+with Processing.** 2012.  
 
