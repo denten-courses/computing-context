@@ -26,9 +26,7 @@ Start with your daily writing and computation. "If you have to do it more than
 - Make a [website](http://jekyllrb.com/)
 - Keep a [logbook](https://github.com/denten/dhnotes/wiki).
 
-### Some of my favorite books in Computer Science for beginners.<sup>1,</sup><sup>2,</sup><sup>3,</sup><sup>4,</sup><sup>5</sup>
-
-### Local resources. Courses, meetups, online.
+### Some of my favorite books in Computer Science for beginners.
 
 <sup>1</sup> Kernighan, Brian. *D Is for Digital*. Brian W. Kernighan, 2012.  
 <sup>2</sup> Petzold, Charles. *Code: The Hidden Language of Computer Hardware
@@ -38,4 +36,7 @@ and Software*. Redmond, Wash.: Microsoft Press, 2000.
 Creative Problem Solving*. San Francisco: No Starch Press, 2012.  
 <sup>5</sup> Shiffman, Daniel. *The Nature of Code: Simulating Natural Systems
 with Processing.** 2012.  
+
+### Local resources. Courses, meetups, online.
+
 
