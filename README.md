@@ -75,17 +75,6 @@ New Literary History 2, no. 1 (October 1, 1970): 123–62.
 Reviews](http://apps.webofknowledge.com.ezproxy.cul.columbia.edu/full_record.do?product=UA&search_mode=GeneralSearch&qid=5&SID=1AZtXjh1FAid3dqdwvI&page=1&doc=1).”
 Decision Support Systems 53, no. 4 (November 2012): 754–60. 
 
-
 Method: sentiment analysis
 
-## Week 6: Influence
-
-Method: network analysis
-
-Lab Assignment: Web of Science
-
-## Week 7: Genre
-
-Method: topic modeling, supervised machine learning
-
-Lab Assignment: Final Project
+## Week 6: Next Steps
