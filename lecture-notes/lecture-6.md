@@ -22,9 +22,11 @@ automate it." Writing, research, self-presentation.
 
 3. Local resources
 
-<sup>1</sup> Kernighan, Brian. D Is for Digital. Brian W. Kernighan, 2012.  
-<sup>2</sup> Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. 1 edition. Redmond, Wash.: Microsoft Press, 2000.  
-<sup>2</sup> ———. The Annotated Turing: A Guided Tour Through Alan Turing’s Historic Paper on Computability and the Turing Machine. 1 edition. Indianapolis, IN: Wiley, 2008.  
-<sup>4</sup> Spraul, V. Anton. Think Like a Programmer: An Introduction to Creative Problem Solving. 1 edition. San Francisco: No Starch Press, 2012.  
-<sup>5</sup> Shiffman, Daniel. The Nature of Code: Simulating Natural Systems with Processing. 1 edition. s.l.: The Nature of Code, 2012.  
+<sup>1</sup> Kernighan, Brian. *D Is for Digital*. Brian W. Kernighan, 2012.  
+<sup>2</sup> Petzold, Charles. *Code: The Hidden Language of Computer Hardware
+and Software*. Redmond, Wash.: Microsoft Press, 2000.  
+<sup>2</sup> ———. *The Annotated Turing*. Indianapolis, IN: Wiley, 2008.  
+<sup>4</sup> Spraul, V. Anton. *Think Like a Programmer: An Introduction to Creative Problem Solving. San Francisco: No Starch Press, 2012.  
+<sup>5</sup> Shiffman, Daniel. *The Nature of Code: Simulating Natural Systems
+with Processing.**  s.l.: The Nature of Code, 2012.  
 
