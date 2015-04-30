@@ -18,14 +18,13 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 and computation. "If you have to do it more than ~~once~~ one hundred times,
 automate it." Writing, research, self-presentation.
 
-2. Some of my favorite books in Computer Science for beginners.[^ln1],[^ln2],[^ln3],[^ln4],[^ln5]
+2. Some of my favorite books in Computer Science for beginners.<sup>1</sup>, <sup>2</sup>, <sup>3</sup>, <sup>4</sup>, <sup>5</sup>
 
 3. Local resources
 
+<sup>1</sup> Kernighan, Brian. D Is for Digital. Brian W. Kernighan, 2012.
+<sup>2</sup> Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. 1 edition. Redmond, Wash.: Microsoft Press, 2000.
+<sup>2</sup> ———. The Annotated Turing: A Guided Tour Through Alan Turing’s Historic Paper on Computability and the Turing Machine. 1 edition. Indianapolis, IN: Wiley, 2008.
+<sup>4</sup> Spraul, V. Anton. Think Like a Programmer: An Introduction to Creative Problem Solving. 1 edition. San Francisco: No Starch Press, 2012.
+<sup>5</sup> Shiffman, Daniel. The Nature of Code: Simulating Natural Systems with Processing. 1 edition. s.l.: The Nature of Code, 2012.
 
-[^ln1]: Kernighan, Brian. D Is for Digital. Brian W. Kernighan, 2012.
-[^ln2]: Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. 1 edition. Redmond, Wash.: Microsoft Press, 2000.
-[^ln3]: ———. The Annotated Turing: A Guided Tour Through Alan Turing’s Historic Paper on Computability and the Turing Machine. 1 edition. Indianapolis, IN: Wiley, 2008.
-[^ln4]: Spraul, V. Anton. Think Like a Programmer: An Introduction to Creative Problem Solving. 1 edition. San Francisco: No Starch Press, 2012.
-[^ln5]: Shiffman, Daniel. The Nature of Code: Simulating Natural Systems with Processing. 1 edition. s.l.: The Nature of Code, 2012.
-- 
