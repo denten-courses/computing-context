@@ -14,20 +14,21 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 
 ## Where to go from here?
 
-1. Take control of your computing environment, starting with your daily writing
+### Take control of your computing environment, starting with your daily writing
 and computation. "If you have to do it more than ~~once~~ one hundred times,
 automate it." Writing, research, self-presentation.
 
-Challenges:
+### Challenges:
 - write a paper in [Pandoc +
   Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 - put a project up on [GitHub](http://gitimmersion.com/)
 - Make a [website](http://jekyllrb.com/)
 - Keep a [logbook](https://github.com/denten/dhnotes/wiki).
 
-2. Some of my favorite books in Computer Science for beginners.<sup>1,</sup><sup>2,</sup><sup>3,</sup><sup>4,</sup><sup>5</sup>
+### Some of my favorite books in Computer Science for
+  beginners.<sup>1,</sup><sup>2,</sup><sup>3,</sup><sup>4,</sup><sup>5</sup>
 
-3. Local resources. Courses, meetups, online.
+### Local resources. Courses, meetups, online.
 
 <sup>1</sup> Kernighan, Brian. *D Is for Digital*. Brian W. Kernighan, 2012.  
 <sup>2</sup> Petzold, Charles. *Code: The Hidden Language of Computer Hardware
