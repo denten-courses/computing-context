@@ -1,11 +1,13 @@
 # Lecture 6: Next Steps
 
 ## Improving Essay Grader
+
 1. Formal Modeling
 2. Machine Learning
 3. Crowd-sourcing
 
 ## Case Studies from the Lab
+
 - [Visualizing Joyce](http://y-li.me/projects/joyce-ulysses-sirens-redux.html)
 & Litrary Visualization Lab
 - [LitCLOCK](https://twitter.com/litclock) & Rikers Bot
@@ -17,7 +19,7 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 ### Take control of your computing environment 
 
 Start with your daily writing and computation. "If you have to do it more than
-~~once~~ one hundred times, automate it." Writing, research, self-presentation.
+~~once~~ *100* times, automate it." Writing, research, self-presentation.
 
 ### Challenges:
 - write a paper in [Pandoc +
@@ -46,8 +48,8 @@ with Processing.** 2012.
 ### Notes
 
 1. Programming is a mindset.
-2. Unless you plan to become a proffesional programmer, think of it as the
-"special sauce." It will enchance any other field of activity, from making to
+2. Unless you plan to become a professional programmer, think of it as the
+"special sauce." It will enhance any other field of activity, from making to
 music to being lawyer or a physician.
 3. Refuse blackboxes.
 4. Small things matter.
