@@ -14,9 +14,10 @@ Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
 
 ## Where to go from here?
 
-### Take control of your computing environment, starting with your daily writing
-and computation. "If you have to do it more than ~~once~~ one hundred times,
-automate it." Writing, research, self-presentation.
+### Take control of your computing environment 
+
+Start with your daily writing and computation. "If you have to do it more than
+~~once~~ one hundred times, automate it." Writing, research, self-presentation.
 
 ### Challenges:
 - write a paper in [Pandoc +
