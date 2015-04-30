@@ -53,9 +53,8 @@ with Processing.** 2012.
 music to being lawyer or a physician.
 3. Refuse blackboxes.
 4. Small things matter.
-5. Stay in touch! (Join the [xpMethod mailing
-list](http://groups.google.com/group/xpmethod) and follow on Twitter
-[@dennistenen](https://twitter.com/dennistenen))
+5. Stay in touch! ([mailing
+list](http://groups.google.com/group/xpmethod) + [@dennistenen](https://twitter.com/dennistenen))
 
 
 
