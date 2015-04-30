@@ -1,7 +1,7 @@
 Thursdays 2:40-3:55pm  
 w/ Professor Dennis Yi Tenen  
 Office Hours M&W 4-5pm  
-Philsophy Hall, 408e  
+Philosophy Hall, 408e  
 email dt2406  
 
 ## [Week 1: Text](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-1.md)
@@ -77,4 +77,11 @@ Decision Support Systems 53, no. 4 (November 2012): 754–60.
 
 Method: sentiment analysis
 
-## Week 6: Next Steps
+## [Week 6: Next
+Steps](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-6.md)
+- Improving the Essay Grader
+- Case Studies from the [Lab](http://xpmethod.plaintext.in/strains.html)
+- Take home challenges
+- Recommended reading
+- Resources
+- Notes
