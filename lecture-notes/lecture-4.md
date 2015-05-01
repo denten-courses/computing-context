@@ -161,7 +161,7 @@ from nltk.tag.stanford import NERTagger
 # unzip the file
 
 # The path should point to the unzipped folder, for example ~/Downloads/stanford-ner-2014-06-16/... Replace "path/to" below with the path to this folder
-st = NERTagger("path/to/stanford-ner-2014-06-16/classifiers/all.3class.distsim.crf.ser.gz",
+st = NERTagger("path/to/stanford-ner-2014-06-16/classifiers/english.all.3class.distsim.crf.ser.gz",
 "/path/to/stanford-ner-2014-06-16/stanford-ner.jar")
 
 # example of use on string
