@@ -14,4 +14,5 @@ In this repository you feel find the screencast version of Computing in Context:
 - [Lecture 5](https://github.com/denten-courses/computing-context/blob/master/lectures/5-lecture.md)
 - [Lecture 6](https://github.com/denten-courses/computing-context/blob/master/lectures/6-lecture.md)
 
-<sup>See how the screencasts are made [here]()</sup>
+<sup>See how the screencasts are made
+[here](https://github.com/denten-courses/computing-context/blob/master/screencasts/notes.md).</sup>
