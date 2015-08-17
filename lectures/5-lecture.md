@@ -1,6 +1,11 @@
 
 ## Week 5: Sentiment
 
+[Part 5.1]():
+[Part 5.2]():
+[Part 5.3]():
+[Part 5.4]():
+
 Reading: 
 - Fish, Stanley. “[Literature in the Reader: Affective
   Stylistics](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/468593?seq=1#page_scan_tab_contents).”
