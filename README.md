@@ -3,7 +3,7 @@ The Screencast Version
 w/ Professor Dennis Yi Tenen  
 (email) dt2406  
 
-In this repository you feel find the screencast version of Computing in Context: Literary Studies, a series of six lecture first given in the spring of 2015. The original notes can be found [here]().
+In this repository you feel find the screencast version of Computing in Context: Literary Studies, a series of six lecture first given in the spring of 2015. The original notes can be found [here](https://github.com/denten-courses/computing-context/tree/spring-2015).
 
 - [Lecture 1]()
 - [Lecture 2]()
