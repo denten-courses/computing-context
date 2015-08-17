@@ -1,8 +1,17 @@
-Thursdays 2:40-3:55pm  
+Computing in Context: Literary Studies
+The Screencast Version
 w/ Professor Dennis Yi Tenen  
-Office Hours M&W 4-5pm  
-Philosophy Hall, 408e  
-email dt2406  
+(email) dt2406  
+
+In this repository you feel find the screencast version of Computing in Context: Literary Studies, a series of six lecture first given in the spring of 2015. The original notes can be found [here]().
+
+[Lecture 1]()
+[Lecture 2]()
+[Lecture 3]()
+[Lecture 4]()
+[Lecture 5]()
+[Lecture 6]()
+
 
 ## [Week 1: Text](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-1.md)
 
