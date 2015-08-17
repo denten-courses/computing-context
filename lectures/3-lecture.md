@@ -1,9 +1,9 @@
 ## [Week 3: Style](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-3.md)
 
-[Part 3.1]():
-[Part 3.2]():
-[Part 3.3]():
-[Part 3.4]():
+- [Part 3.1]():
+- [Part 3.2]():
+- [Part 3.3]():
+- [Part 3.4]():
 
 **Readings:**
 Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship

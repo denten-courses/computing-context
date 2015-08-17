@@ -1,10 +1,10 @@
 
 ## [Week 1: Text](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-1.md)
 
-[Part 1.1]():
-[Part 1.2]():
-[Part 1.3]():
-[Part 1.4]():
+- [Part 1.1]():
+- [Part 1.2]():
+- [Part 1.3]():
+- [Part 1.4]():
 
 **Readings:** Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)."

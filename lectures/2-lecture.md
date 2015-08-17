@@ -1,10 +1,10 @@
 
 ## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
-[Part 2.1]():
-[Part 2.2]():
-[Part 2.3]():
-[Part 2.4]():
+- [Part 2.1]():
+- [Part 2.2]():
+- [Part 2.3]():
+- [Part 2.4]():
 
 **Readings**: "[Facing the Language
 Challenge](http://www.nltk.org/book/ch12.html)" from *[Natural Language

@@ -1,9 +1,9 @@
 ## [Week 4: Setting](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-4.md)
 
-[Part 4.1]():
-[Part 4.2]():
-[Part 4.3]():
-[Part 4.4]():
+- [Part 4.1]():
+- [Part 4.2]():
+- [Part 4.3]():
+- [Part 4.4]():
 
 *Reading:*
 
