@@ -1,11 +1,14 @@
 
 ## [Week 1: Text](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-1.md)
 
-- [Part 1.1](): Introduction  
+- [Part 1.1](): **Introduction**  
    Principles behind the class. In search for text. Close and distant reading. Exploratory data analysis. Formulating intuitions. Building language models. Algorithmic thinking.
-- [Part 1.2](): Setting up the environment. Where to get help. Lab notebooks.
+- [Part 1.2](): Setting up the environment 
+    Three locations. Where to get help. Lab notebooks.
 - [Part 1.3](): Plain vs. fancy text
-- [Part 1.4](): Text analysis in Bash
+    Files and folders. Navigation. Bash basics.
+- [Part 1.4](): Counting words
+    Text analysis in Bash.
 
 **Readings:** Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)."
