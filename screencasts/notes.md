@@ -1,6 +1,6 @@
 | function  | app w/ link                               | incantation     |
 |-----------|-------------------------------------------|-----------------|
-| recording | [libav](https://libav.org/download/)      |            |
+| recording | [libav](https://libav.org/download/)      | [`sh record.sh`](https://raw.githubusercontent.com/denten-courses/computing-context/master/screencasts/record.sh)  |
 | keystroke | [screenkey](https://packages.debian.org/source/sid/screenkey)| `screenkey` |
 
 
