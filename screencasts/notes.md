@@ -1,7 +1,7 @@
-| function     | app w/ link                               |
-|--------------|-------------------------------------------|
-| recording    | [libav](https://libav.org/download/)      |
-| keystroke    | [screenkey](https://packages.debian.org/source/sid/screenkey)     |
+| function  | app w/ link                               | incantation     |
+|-----------|-------------------------------------------|-----------------|
+| recording | [libav](https://libav.org/download/)      |            |
+| keystroke | [screenkey](https://packages.debian.org/source/sid/screenkey)| `screenkey` |
 
 
 -  launch screenkey  
