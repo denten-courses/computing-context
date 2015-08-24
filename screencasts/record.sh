@@ -1,6 +1,6 @@
 # avconv     »
 # -f         » force input or output file format, autodetected usually, not needed
-# alsa       »
+# alsa       » arecord -l to get a list of available audio devices
 # -ac        »
 # -i         »
 # -f         »
