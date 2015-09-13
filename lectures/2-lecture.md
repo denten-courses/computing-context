@@ -2,6 +2,11 @@
 ## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
 - [Part 2.1]():
+
+### [Part 1.4](): **Counting words**  
+
+Text analysis in Bash.
+
 - [Part 2.2]():
 - [Part 2.3]():
 - [Part 2.4]():
