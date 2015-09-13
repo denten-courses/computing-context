@@ -12,12 +12,15 @@ Algorithmic thinking. Operationalizing.
 Three locations: command line, ipython interpreter, plain text editor. What
 is an interpreter? Plain vs. fancy text.
 
-- [Part 1.3](): **Plain vs. fancy text**  
-    Files and folders. Navigation. Bash basics.
-- [Part 1.4](): **Counting words**  
-    Text analysis in Bash.
+### [Part 1.3](): **Plain vs. fancy text**  
 
-**Readings:** Moretti, Franco
+Files and folders. Navigation. Bash basics.
+
+### [Part 1.4](): **Counting words**  
+
+Text analysis in Bash.
+
+### **Readings:**
 
 - Moretti, Franco.
   "'[Operationalizing](http://newleftreview.org/II/84/franco-moretti-operationalizing).'"
