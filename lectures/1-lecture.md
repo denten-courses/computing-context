@@ -22,4 +22,9 @@ Files and folders. Navigation. Bash basics.
   "'[Operationalizing](http://newleftreview.org/II/84/franco-moretti-operationalizing).'"
 New Left Review, II, no. 84 (December 2013): 103–19.
 
+- Moretti, Franco, and Dominique Pestre.
+"[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)." New Left Review 92
+(2015): 75–99.
+
+
 **Experiment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel).
