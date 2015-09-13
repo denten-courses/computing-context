@@ -17,7 +17,7 @@ is an interpreter? Plain vs. fancy text.
 What is literature? Micro and macroanalysis. The Bankspeak model.
 "Operationalizing" intuition.
 
-### **Readings:**
+### Readings:
 
 - Moretti, Franco.
   "'[Operationalizing](http://newleftreview.org/II/84/franco-moretti-operationalizing).'"
@@ -27,4 +27,6 @@ New Left Review, II, no. 84 (December 2013): 103–19.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)." New Left Review 92
 (2015): 75–99.
 
-**Experiment:** [Weasel Words I](https://github.com/denten-courses/computing-context/tree/master/experiments/1-weasel).
+### Experiment:
+
+[Model](https://github.com/denten-courses/computing-context/tree/master/experiments/first.md).
