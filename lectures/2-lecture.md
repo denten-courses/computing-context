@@ -1,10 +1,10 @@
-## [Week 2: Words](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
+## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
 ### [Part 2.1](): Hunting the Whale
 
 ### [Part 2.2](): Things to do with strings
 
-### [Pard 2.3](): The language challenge
+### [Part 2.3](): The language challenge
 
 
 ### Readings:

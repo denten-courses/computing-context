@@ -1,20 +1,18 @@
-## [Week 3: Style](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-3.md)
+## [Week 3: Types and Tokens](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
-- [Part 3.1]():
-- [Part 3.2]():
-- [Part 3.3]():
-- [Part 3.4]():
+### [Part 2.1](): Hunting the Whale
 
-**Readings:**
-Mosteller, Frederick, and David L. Wallace. "[Inference in an Authorship
-Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the American Statistical Association 58.302 (1963):
-275–309.
+### [Part 2.2](): Things to do with strings
 
-**Ideas:** stem, lemma, bag of words, n-gram, frequency, collocation, model
+### [Part 2.3](): The language challenge
 
-**Method & Tools:** stylistics, iPython, NLTK
 
-**Lab Assignment:** [Weasel Words
-II](https://github.com/denten-courses/computing-context/blob/master/experiments/2-weasel/2-weasel-words.md).
-Due Monday, April 20th by midnight. Start on [Automatic Essay Grader](https://github.com/denten-courses/computing-context/blob/master/experiments/3-essay-grade/3-essay-grade.md), due Monday, April 27 by midnight.
+### Readings:
 
+"[Facing the Language Challenge](http://www.nltk.org/book/ch12.html)" from
+*[Natural Language Processing with Python](http://www.nltk.org/book/)* by
+Steven Bird, Ewan Klein and Edward Loper.
+
+### Experiment:
+
+[Essay Grader](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).

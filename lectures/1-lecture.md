@@ -14,8 +14,9 @@ is an interpreter? Plain vs. fancy text.
 
 ### [Part 1.3](): **Modeling Literature**  
 
-What is literature? Micro and macroanalysis. The Bankspeak model.
-"Operationalizing" intuition.
+A few more words about the environment. What is literature? Micro and
+macroanalysis. The Bankspeak model.  "Operationalizing" intuition. More on
+modeling.
 
 ### Readings:
 

@@ -1,14 +1,18 @@
+## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
 
-## [Week 6: Next Steps](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-6.md)
+### [Part 2.1](): Hunting the Whale
 
-- [Part 6.1]():
-- [Part 6.2]():
-- [Part 6.3]():
-- [Part 6.4]():
+### [Part 2.2](): Things to do with strings
 
-- Improving the Essay Grader
-- Case Studies from the [Lab](http://xpmethod.plaintext.in/strains.html)
-- Take home challenges
-- Recommended reading
-- Resources
-- Notes
+### [Part 2.3](): The language challenge
+
+
+### Readings:
+
+"[Facing the Language Challenge](http://www.nltk.org/book/ch12.html)" from
+*[Natural Language Processing with Python](http://www.nltk.org/book/)* by
+Steven Bird, Ewan Klein and Edward Loper.
+
+### Experiment:
+
+[Hunting the Whale](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).
