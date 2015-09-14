@@ -9,7 +9,7 @@ https://github.com/denten-courses/computing-context/tree/master/screencasts/1-sc
 
 - Moretti, Franco.
   "'[Operationalizing](http://newleftreview.org/II/84/franco-moretti-operationalizing).'"
-New Left Review, II, no. 84 (December 2013): 103–19.<sup>†</sup> 
+New Left Review, II, no. 84 (December 2013): 103–19.<sup>†</sup>
 
 - Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)." New Left Review 92
@@ -20,8 +20,7 @@ full text.</sub>
 
 ### Experiment
 
-[Model](https://github.com/denten-courses/computing-context/tree/master/experiments/1-experiment).
-
+[Reading "Bankspeak"](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/1-bankspeak.md).
 
 ### Lecture Notes
 
