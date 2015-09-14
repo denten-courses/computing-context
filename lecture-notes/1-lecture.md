@@ -39,6 +39,5 @@ is an interpreter? Plain vs. fancy text. `ls`, `pwd`, `man`, `cat`, `cd`
 #### Part 1.3: **Modeling Literature**  
 
 A few more words about the environment. What is literature? Micro and
-macroanalysis. The Bankspeak model.  "Operationalizing" intuition. More on
-modeling.
-
+macroanalysis. The Bankspeak model.  "Operationalizing" intuition. Home work
+and GitHub site.
