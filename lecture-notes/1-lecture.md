@@ -36,8 +36,10 @@ Algorithmic thinking.
 Three locations: command line, ipython interpreter, plain text editor. What
 is an interpreter? Plain vs. fancy text. `ls`, `pwd`, `man`, `cat`, `cd`
 
-#### Part 1.3: **Modeling Literature**  
+#### Part 1.3: **A note on Literature**  
 
-A few more words about the environment. What is literature? Micro and
-macroanalysis. The Bankspeak model.  "Operationalizing" intuition. Home work
-and GitHub site.
+A few more words about the environment. Literature vs. literature. Where is it practiced? 
+
+#### Part 1.4: **Experiments**  
+
+A quick tour of the homework assignments.
