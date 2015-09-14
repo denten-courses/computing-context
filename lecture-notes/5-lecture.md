@@ -1,12 +1,12 @@
 
 ## Week 5: Sentiment
 
-- [Part 5.1]():
-- [Part 5.2]():
-- [Part 5.3]():
-- [Part 5.4]():
+### Screencasts
 
-Reading: 
+https://github.com/denten-courses/computing-context/tree/master/screencasts/5-screencast
+
+### Readings
+
 - Fish, Stanley. “[Literature in the Reader: Affective
   Stylistics](http://www.jstor.org.ezproxy.cul.columbia.edu/stable/468593?seq=1#page_scan_tab_contents).”
 New Literary History 2, no. 1 (October 1, 1970): 123–62.
@@ -15,5 +15,12 @@ New Literary History 2, no. 1 (October 1, 1970): 123–62.
 Reviews](http://apps.webofknowledge.com.ezproxy.cul.columbia.edu/full_record.do?product=UA&search_mode=GeneralSearch&qid=5&SID=1AZtXjh1FAid3dqdwvI&page=1&doc=1).”
 Decision Support Systems 53, no. 4 (November 2012): 754–60. 
 
-Method: sentiment analysis
+### Experiments
+
+### Lecture Notes
+
+#### Part 5.1]():
+#### [Part 5.2]():
+#### [Part 5.3]():
+#### [Part 5.4]():
 

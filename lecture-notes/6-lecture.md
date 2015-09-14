@@ -1,18 +1,25 @@
-## [Week 2: Word](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/lecture-2.md)
+## Week 6: Plot
 
-### [Part 2.1](): Hunting the Whale
+### Screencasts
 
-### [Part 2.2](): Things to do with strings
+https://github.com/denten-courses/computing-context/tree/master/screencasts/6-screencast
 
-### [Part 2.3](): The language challenge
+### Readings
 
-
-### Readings:
-
-"[Facing the Language Challenge](http://www.nltk.org/book/ch12.html)" from
+- "[Facing the Language Challenge](http://www.nltk.org/book/ch12.html)" from
 *[Natural Language Processing with Python](http://www.nltk.org/book/)* by
 Steven Bird, Ewan Klein and Edward Loper.
 
-### Experiment:
+### Experiment
 
 [Hunting the Whale](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).
+
+### Lecture Notes
+
+#### [Part 6.1](): Hunting the Whale
+
+#### [Part 6.2](): Things to do with strings
+
+#### [Part 6.3](): The language challenge
+
+
