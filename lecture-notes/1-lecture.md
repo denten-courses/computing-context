@@ -20,8 +20,8 @@ full text.</sub>
 
 ### Experiment
 
-1. [Reading "Bankspeak"](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/1-bankspeak.md).
-2. [CLI Comfort Zone](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/2-command-line.md). 
+1. [Reading "Bankspeak"](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/1-bankspeak.md)
+2. [CLI Comfort Zone](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/2-command-line.md)
 
 ### Lecture Notes
 
