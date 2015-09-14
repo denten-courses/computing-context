@@ -1,8 +1,9 @@
 
 ## Week 1: Text
 
-[Link to
-screencasts](https://github.com/denten-courses/computing-context/blob/master/screencasts/1-screencast).
+### Screencast
+
+https://github.com/denten-courses/computing-context/tree/master/screencasts/1-screencast
 
 ### Notes on Part 1.1: **Introduction**  
 
