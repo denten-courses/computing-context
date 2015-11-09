@@ -29,7 +29,6 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 mkdir hunting-whale
 
 # cd into the directory
-# don't forget to type, programmers are "good lazy"
 cd hunting-whale
 
 # let's grab moby dick (or use another novel"
