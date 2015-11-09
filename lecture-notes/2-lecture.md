@@ -61,7 +61,7 @@ cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 tail moby-clean.txt
 
 # sort by word frequency
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > word-count.txt
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
 head word-count.txt
 ```
 
