@@ -48,7 +48,7 @@ grep "whale" moby.txt
 cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
 
 # see what happened to the whales
-grep "chicken" moby.txt
+grep "chicken" chicken.txt
 
 # remove punctuation.
 cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt
