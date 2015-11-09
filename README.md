@@ -10,38 +10,38 @@ In this repository you feel find the screencast version of Computing in Context:
 ### Lecture 1: Text
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/1-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/1-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMRU9hRk5PM09HZDg)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/1-experiment)
 
 ### Lecture 2: Word
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/2-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/2-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMTTVRd2lQUWJrNm8)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/2-experiment)
 
 ### Lecture 3: Types and Tokens
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/3-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/3-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMQzlTbHB3ZEw0T3M)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/3-experiment)
 
 ### Lecture 4: Style
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/4-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/4-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMcjZpV1RfeEdsR0U)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/4-experiment)
 
 ### Lecture 5: Sentiment
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/5-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/5-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMOU1yYW1JcUlNcWM)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/5-experiment)
 
 ### Lecture 6: Plot
 
 - [Notes and
 Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/6-lecture.md)
-- [Screencasts](https://github.com/denten-courses/computing-context/tree/master/screencasts/6-screencast)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMSkZIOWJLbHFsQjg)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/6-experiment)
 
 <sup>See how the screencasts are made
