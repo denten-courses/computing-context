@@ -182,5 +182,3 @@ for line in lines:
 types = Counter(tokens)
 types.most_common(100)
 ```
-#### Part 2.3: Things to do with strings
-#### Part 2.4: The language challenge
