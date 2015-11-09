@@ -51,7 +51,7 @@ cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
 grep "chicken" chicken.txt
 
 # remove punctuation.
-cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt
+cat moby.txt | tr -d "[:punct:]" > moby-nopunct.txt
 
 # translate all upper case into lower
 cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
