@@ -1,4 +1,4 @@
-## Week 2: Types and Tokens
+## Week 2: Word (Types and Tokens)
 
 ### Screencasts
 
@@ -47,19 +47,24 @@ grep "whale" moby.txt
 cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
 
 # see what happened to the whales
-grep "chicken" moby.txt
+grep "chicken" chicken.txt
 
 # remove punctuation.
-cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt
+cat moby.txt | tr -d "[:punct:]" > moby-nopunct.txt
+
+# check if it worked
+tail moby-nopunct.txt
 
 # translate all upper case into lower
 cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
+tail moby-clean.txt
 
 # sort by word frequency
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt (Mac)
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
+head word-count.txt
 ```
 
-#### Part 2.2: Things to do with Files
+#### Part 2.2: Things to do with Files (iPython)
 
 ```
 # fire up ipython
@@ -146,7 +151,7 @@ lines[mobyl-1]
 # no need to close
 ```
 
-#### Part 2.2: Hunting the Whale II (Python)
+#### Part 2.2: Hunting the Whale II (iPython)
 
 ```
 # open file and read contents into a list of lines
@@ -176,5 +181,3 @@ for line in lines:
 types = Counter(tokens)
 types.most_common(100)
 ```
-#### Part 2.3: Things to do with strings
-#### Part 2.4: The language challenge
