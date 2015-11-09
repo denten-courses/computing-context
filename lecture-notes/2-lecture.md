@@ -22,7 +22,6 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 
 ### Lecture Notes
 
-
 #### Part 2.1: Hunting the Whale I (shell)
 
 ```
@@ -36,7 +35,7 @@ cd hunting-whale
 # let's grab moby dick (or use another novel"
 # make sure it is in plain text!
 # the angle bracket is a redirect into a file
-curl http://www.textfiles.com/etext/FICTION/mobydick.txt > moby.txt
+curl http://www.textfiles.com/etext/FICTION/melville-moby-106.txt > moby.txt
 
 # let's peek inside
 cat moby.txt
@@ -69,10 +68,10 @@ ipython
 # open file
 f = open('moby.txt', 'r)
 
-# check type, wha
+# check type
 type(f)
 
-# what can you do>
+# what can you do?
 f.[tab in ipython here instead of typing this to see methods attached to type file]
 
 # get file name
