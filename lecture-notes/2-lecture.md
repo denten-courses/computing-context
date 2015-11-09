@@ -2,7 +2,7 @@
 
 ### Screencasts
 
-https://github.com/denten-courses/computing-context/tree/master/screencasts/2-screencast
+https://drive.google.com/open?id=0B4OAOue0b3VMTTVRd2lQUWJrNm8
 
 ### Readings
 
