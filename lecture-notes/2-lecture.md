@@ -17,16 +17,13 @@ Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take
 
 ### Experiments
 
-[Hunting the Whale](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).
+[Hunting the
+Whale](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).
 
 ### Lecture Notes
 
 
-What is literature? Micro and
-macroanalysis. The Bankspeak model.  "Operationalizing" intuition. More on
-modeling.
-
-#### Part 2.1: Relative and absolute paths
+#### Part 2.1: Files
 
 ```
 # make a project directory where we experiment
@@ -60,27 +57,29 @@ f.[tab in ipython here instead of typing this to see methods attached to type fi
 f.name()
 
 # lets move through the file
-f.next()
+f.readline()
 
 # check file position
 f.tell()
 
+# why this number?
 # reset file position
 f.seek(0)
 
 # display the whole file
 while f:
-    print(f.next())
+    print(f.readline())
 
-# try f.next() now
+# try f.readline() now
 Why is this happening?
-
-# reset counter
-f.seek()
 
 # how long is the file? what does the length represent?
 f.tell()
-moby_length = f.tell()
+import os
+os.stat('moby.txt')
+f.seek?
+f.seek(0, 2)
+moby_length = f.seek(0,2)
 
 # lets grab a (pseudo)random line
 # grab the randomizer
@@ -98,7 +97,7 @@ f.readline(randint(0,moby_length))
 # this is tiring, lets close the file
 f.close()
 
-# what happens when you f.next now?
+# what happens when you f.readline() now?
 
 # ok that was too much work
 # but we learned to read file objects
@@ -124,9 +123,37 @@ lines[mobyl-1]
 
 # phew
 # no need to close
-
 ```
 
-#### Part 2.2: Hunting the Whale
+#### Part 2.2: Types and tokens
+
+```
+# open file and read contents into a list of lines
+# mimics the shell behavior in the previous example
+with open('moby.txt', 'r') as f:
+    lines = f.read().splitlines()
+```
+
+```
+# replace whale for chicken in every line and print results
+for line in lines:
+    if 'whale' in line:
+        print(line.replace('whale', 'chicken'))
+```
+
+```
+from string import punctuation
+from collections import Counter
+
+tokens = []
+
+for line in lines:
+    for word in line.split():
+        tokens.append(word.strip(punctuation).lower())
+
+# display 100 most common types
+types = Counter(tokens)
+types.most_common(100)
+```
 #### Part 2.3: Things to do with strings
 #### Part 2.4: The language challenge

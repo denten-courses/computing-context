@@ -38,7 +38,8 @@ is an interpreter? Plain vs. fancy text. `ls`, `pwd`, `man`, `cat`, `cd`
 
 #### Part 1.3: **A note on Literature**  
 
-A few more words about the environment. Literature vs. literature. Where is it practiced? 
+A few more words about the environment. Literature vs. literature. Where is it
+practiced? 
 
 #### Part 1.4: **Experiments**  
 
