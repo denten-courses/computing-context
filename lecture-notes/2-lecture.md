@@ -53,11 +53,16 @@ grep "chicken" chicken.txt
 # remove punctuation.
 cat moby.txt | tr -d "[:punct:]" > moby-nopunct.txt
 
+# check if it worked
+tail moby-nopunct.txt
+
 # translate all upper case into lower
 cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
+tail moby-clean.txt
 
 # sort by word frequency
 cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt (Mac)
+head file_wc.txt
 ```
 
 #### Part 2.2: Things to do with Files
