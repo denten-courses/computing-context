@@ -58,6 +58,7 @@ cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 
 # sort by word frequency
 cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt (Mac)
+```
 
 #### Part 2.2: Things to do with Files
 
