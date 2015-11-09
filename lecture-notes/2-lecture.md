@@ -22,46 +22,7 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 
 ### Lecture Notes
 
-#### Part 2.1: Hunting the Whale I (shell)
-
-```
-# make a project directory where we experiment
-mkdir hunting-whale
-
-# cd into the directory
-cd hunting-whale
-
-# let's grab moby dick (or use another novel"
-# make sure it is in plain text!
-# the angle bracket is a redirect into a file
-curl http://www.textfiles.com/etext/FICTION/melville-moby-106.txt > moby.txt
-
-# let's peek inside
-cat moby.txt
-
-# find the whale
-grep "whale" moby.txt
-
-# substitute whale for chicken globally
-cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
-
-# see what happened to the whales
-grep "chicken" chicken.txt
-
-# remove punctuation.
-cat moby.txt | tr -d "[:punct:]" > moby-nopunct.txt
-
-# check if it worked
-tail moby-nopunct.txt
-
-# translate all upper case into lower
-cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
-tail moby-clean.txt
-
-# sort by word frequency
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
-head word-count.txt
-```
+[Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#counting-whales)
 
 #### Part 2.2: Hunting the Whale II (iPython)
 
