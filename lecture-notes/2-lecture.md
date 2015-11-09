@@ -24,33 +24,4 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 
 [Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#hunting-the-whale)
 
-#### Part 2.2: Hunting the Whale II (iPython)
-
-```
-# open file and read contents into a list of lines
-# mimics the shell behavior in the previous example
-with open('moby.txt', 'r') as f:
-    lines = f.read().splitlines()
-```
-
-```
-# replace whale for chicken in every line and print results
-for line in lines:
-    if 'whale' in line:
-        print(line.replace('whale', 'chicken'))
-```
-
-```
-from string import punctuation
-from collections import Counter
-
-tokens = []
-
-for line in lines:
-    for word in line.split():
-        tokens.append(word.strip(punctuation).lower())
-
-# display 100 most common types
-types = Counter(tokens)
-types.most_common(100)
-```
+[Hunting the Whale II (iPython)](https://github.com/xpmethod/dhnotes/blob/master/python/python-4.md#hunting-the-whale)
