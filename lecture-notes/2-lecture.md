@@ -1,4 +1,4 @@
-## Week 2: Types and Tokens
+## Week 2: Word (Types and Tokens)
 
 ### Screencasts
 
