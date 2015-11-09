@@ -61,11 +61,11 @@ cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 tail moby-clean.txt
 
 # sort by word frequency
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt (Mac)
-head file_wc.txt
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > word-count.txt (Mac)
+head word-count.txt
 ```
 
-#### Part 2.2: Things to do with Files
+#### Part 2.2: Things to do with Files (iPython)
 
 ```
 # fire up ipython
@@ -152,7 +152,7 @@ lines[mobyl-1]
 # no need to close
 ```
 
-#### Part 2.2: Hunting the Whale II (Python)
+#### Part 2.2: Hunting the Whale II (iPython)
 
 ```
 # open file and read contents into a list of lines
