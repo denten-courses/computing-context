@@ -10,7 +10,7 @@ In this repository you feel find the screencast version of Computing in Context:
 ### Lecture 1: Text
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/1-lecture.md)
-- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMRU9hRk5PM09HZDg)
+- [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMZ1NKblNSNmxEcWc)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/1-experiment)
 
 ### Lecture 2: Word
