@@ -1,4 +1,4 @@
-## Week 2: Word
+## Week 2: Types and Tokens
 
 ### Screencasts
 
@@ -23,7 +23,7 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 ### Lecture Notes
 
 
-#### Part 2.1: Files
+#### Part 2.1: Hunting the Whale I (shell)
 
 ```
 # make a project directory where we experiment
@@ -41,6 +41,27 @@ curl http://www.textfiles.com/etext/FICTION/mobydick.txt > moby.txt
 # let's peek inside
 cat moby.txt
 
+# find the whale
+grep "whale" moby.txt
+
+# substitute whale for chicken globally
+cat moby.txt | sed 's/whale/chicken/g' > chicken.txt
+
+# see what happened to the whales
+grep "chicken" moby.txt
+
+# remove punctuation.
+cat file.txt | tr -d "[:punct:]" > moby-nopunct.txt
+
+# translate all upper case into lower
+cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
+
+# sort by word frequency
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -k1 > file_wc.txt (Mac)
+
+#### Part 2.2: Things to do with Files
+
+```
 # fire up ipython
 ipython
 
@@ -125,7 +146,7 @@ lines[mobyl-1]
 # no need to close
 ```
 
-#### Part 2.2: Types and tokens
+#### Part 2.2: Hunting the Whale II (Python)
 
 ```
 # open file and read contents into a list of lines
