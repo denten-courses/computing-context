@@ -22,7 +22,7 @@ Whale](https://github.com/denten-courses/computing-context/tree/master/experimen
 
 ### Lecture Notes
 
-[Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#counting-whales)
+[Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#hunting-the-whale)
 
 #### Part 2.2: Hunting the Whale II (iPython)
 
