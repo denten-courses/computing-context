@@ -18,7 +18,7 @@ Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take
 ### Experiments
 
 [Hunting the
-Whale](https://github.com/denten-courses/computing-context/tree/master/experiments/second.md).
+Whale](https://github.com/denten-courses/computing-context/blob/master/experiments/2-experiment/better-hunting.md).
 
 ### Lecture Notes
 
