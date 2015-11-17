@@ -18,11 +18,6 @@ New Left Review, II, no. 84 (December 2013): 103–19.<sup>†</sup>
 <sup>†</sup><sub>You need to access these from the campus network to see the
 full text.</sub>
 
-### Experiment
-
-1. [Reading "Bankspeak"](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/1-bankspeak.md)
-2. [CLI Comfort Zone](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/2-command-line.md)
-
 ### Lecture Notes
 
 #### Part 1.1: **Introduction**  
@@ -44,3 +39,9 @@ practiced?
 #### Part 1.4: **Experiments**  
 
 A quick tour of the homework assignments.
+
+### Home Experiments
+
+1. [Reading "Bankspeak"](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/1-bankspeak.md)
+2. [CLI Comfort Zone](https://github.com/denten-courses/computing-context/blob/master/experiments/1-experiment/2-command-line.md)
+
