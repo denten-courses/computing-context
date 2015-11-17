@@ -13,13 +13,13 @@ In this repository you feel find the screencast version of Computing in Context:
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMZ1NKblNSNmxEcWc)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/1-experiment)
 
-### Lecture 2: Word
+### Lecture 2: Word (Types & Tokens)
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/2-lecture.md)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMTTVRd2lQUWJrNm8)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/2-experiment)
 
-### Lecture 3: Types and Tokens
+### Lecture 3: Quality
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/3-lecture.md)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMQzlTbHB3ZEw0T3M)
