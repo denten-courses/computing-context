@@ -1,5 +1,5 @@
 
-## Experiment 3: Essay Grader
+## Experiment 4: Essay Grader
 
 1. Operationalize the idea of "staleness of imagery" and "lack of precision"
 from Orwell's essay in pseudo code. Come up with a 6-12 steps algorithm that
