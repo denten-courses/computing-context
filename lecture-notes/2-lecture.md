@@ -21,7 +21,7 @@ Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take
 
 [Hunting the Whale II (iPython)](https://github.com/xpmethod/dhnotes/blob/master/python/python-4.md#hunting-the-whale)
 
-### Experiments
+### Home Experiment
 
-[Better Hunting](https://github.com/denten-courses/computing-context/blob/master/experiments/2-experiment/better-hunting.md).
+[Better Hunting](https://github.com/denten-courses/computing-context/blob/master/experiments/2-experiment/better-hunting.md)
 
