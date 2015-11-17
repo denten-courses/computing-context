@@ -36,9 +36,9 @@ is an interpreter? Plain vs. fancy text. `ls`, `pwd`, `man`, `cat`, `cd`
 A few more words about the environment. Literature vs. literature. Where is it
 practiced? 
 
--Part 1.4: **Experiments**  
+- Part 1.4: **Experiments**  
 
-A quick tour of the homework assignments.
+    A quick tour of the homework assignments.
 
 ### Home Experiments
 
