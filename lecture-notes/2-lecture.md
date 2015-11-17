@@ -15,13 +15,13 @@ Steven Bird, Ewan Klein and Edward Loper.
 - [Take the Linux Filesystem
 Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take-linux-filesystem-tour/#null)
 
-### Experiments
-
-[Hunting the
-Whale](https://github.com/denten-courses/computing-context/blob/master/experiments/2-experiment/better-hunting.md).
-
 ### Lecture Notes
 
 [Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#hunting-the-whale)
 
 [Hunting the Whale II (iPython)](https://github.com/xpmethod/dhnotes/blob/master/python/python-4.md#hunting-the-whale)
+
+### Experiments
+
+[Better Hunting](https://github.com/denten-courses/computing-context/blob/master/experiments/2-experiment/better-hunting.md).
+
