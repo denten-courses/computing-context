@@ -16,3 +16,4 @@ We want to normalize for text length to be able to compare the TTR for two
 texts of different lengths. What should our minimum text length be and why.
 
 5. Write a program that outputs normalized TTR
+6. Run a afew of your own texts through the machine along with Orwell and perhaps Moby Dick.
