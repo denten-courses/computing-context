@@ -103,6 +103,6 @@ type_token_ratio = len(types)/len(tokens)
 
 ### Home Experiments
 
-- [Normalized TTR](https://github.com/denten-courses/computing-context/blob/master/experiments/3-experiment/normal.md).
+- [Normalized TTR](https://github.com/denten-courses/computing-context/blob/master/experiments/3-experiment/normal.md)
 - [Essay
 Grader](https://github.com/denten-courses/computing-context/blob/master/experiments/3-experiment/grader.md)
