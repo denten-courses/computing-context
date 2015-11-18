@@ -9,11 +9,11 @@ https://drive.google.com/open?id=0B4OAOue0b3VMZ1NKblNSNmxEcWc
 
 - Moretti, Franco.
   "'[Operationalizing](http://newleftreview.org/II/84/franco-moretti-operationalizing).'"
-New Left Review, II, no. 84 (December 2013): 103–19.<sup>†</sup>
+New Left Review, II, no. 84 (December 2013): 103–19.<sub>†</sub>
 
 - Moretti, Franco, and Dominique Pestre.
 "[Bankspeak](http://newleftreview.org/II/92/franco-moretti-dominique-pestre-bankspeak)." New Left Review 92
-(2015): 75–99.<sup>†</sup>
+(2015): 75–99.<sub>†</sub>
 
 <sup>†</sup><sub>You need to access these from the campus network to see the
 full text.</sub>
