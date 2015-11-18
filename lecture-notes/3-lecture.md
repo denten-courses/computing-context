@@ -89,7 +89,7 @@ types?
 # get the type of tokens ratio
 type_token_ratio = len(types)/len(tokens)
 
-# oh-oh, why is it zero
+# oh-oh, why is it zero?
 from __future__ import division
 type_token_ratio = len(types)/len(tokens)
 
