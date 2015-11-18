@@ -64,10 +64,8 @@ from collections import Counter
 with open('orwell.txt', 'r') as f:
     text = f.read()
 
-# make our containers
+# make our container
 tokens = []
-sentences = []
-paragraphs = []
 
 # populate the lines list
 # important: what is the difference between line and sentence?
