@@ -17,7 +17,7 @@ Go?](http://www.sciencedirect.com/science/article/pii/S0010945213002554)”
 Cortex, Language, Computers and Cognitive Neuroscience, 55 (June 2014):
 192–201.<sub>†</sub>
 
-<sup>†</sup> Requires university login.
+<sup>†</sup> <sub>Requires university login.</sub>
 
 ### Lecture Notes
 
