@@ -16,4 +16,7 @@ We want to normalize for text length to be able to compare the TTR for two
 texts of different lengths. What should our minimum text length be and why.
 
 5. Write a program that outputs normalized TTR for any given text. Write the
-output to a `.csv` file. It would also be nice to get human-readable ;wq
+output to a `.csv` file. It would also be nice to also get human-readable output to the console.
+
+6. Run a few of your own texts through the machine along with Orwell and perhaps Moby Dick.
+
