@@ -17,7 +17,7 @@ Go?](http://www.sciencedirect.com/science/article/pii/S0010945213002554)”
 Cortex, Language, Computers and Cognitive Neuroscience, 55 (June 2014):
 192–201.<sub>†</sub>
 
-<sup>†</sup> Requires university login.
+<sup>†</sup> <sub>Requires university login.</sub>
 
 ### Lecture Notes
 
@@ -64,10 +64,8 @@ from collections import Counter
 with open('orwell.txt', 'r') as f:
     text = f.read()
 
-# make our containers
+# make our container
 tokens = []
-sentences = []
-paragraphs = []
 
 # populate the lines list
 # important: what is the difference between line and sentence?
@@ -91,7 +89,7 @@ types?
 # get the type of tokens ratio
 type_token_ratio = len(types)/len(tokens)
 
-# oh-oh, why is it zero
+# oh-oh, why is it zero?
 from __future__ import division
 type_token_ratio = len(types)/len(tokens)
 
