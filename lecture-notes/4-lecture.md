@@ -15,8 +15,6 @@ Guide](https://google.github.io/styleguide/pyguide.html_), Revision 2.5.9.
   Problem](https://www.stat.cmu.edu/Exams/mosteller.pdf)." Journal of the
 American Statistical Association 58.302 (1963): 275–309.
 
-### Experiments
-
 ### Lecture Notes
 
 ```
@@ -24,3 +22,4 @@ American Statistical Association 58.302 (1963): 275–309.
 # paragraph parser
 # length of sentences and paragraphs
 ```
+### Home Experiments
