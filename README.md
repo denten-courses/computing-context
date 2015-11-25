@@ -27,7 +27,7 @@ In this repository you feel find the screencast version of Computing in Context:
 
 ### Lecture 4: Style
 
-- [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/4-lecture.md)
+- [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/4-lecture.ipynb)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMcjZpV1RfeEdsR0U)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/4-experiment)
 
