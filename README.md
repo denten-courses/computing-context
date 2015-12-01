@@ -25,15 +25,15 @@ In this repository you feel find the screencast version of Computing in Context:
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMQzlTbHB3ZEw0T3M)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/3-experiment)
 
-### Lecture 4: Style
+### Lecture 4: Style I
 
 - [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/4-lecture.ipynb)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMcjZpV1RfeEdsR0U)
-- [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/4-experiment)
 
-### Lecture 5: Sentiment
+### Lecture 5: Style II
 
-- [Notes and Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/5-lecture.md)
+- [Notes and
+Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/5-lecture.ipynb)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMOU1yYW1JcUlNcWM)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/5-experiment)
 
