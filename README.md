@@ -40,7 +40,7 @@ Readings](https://github.com/denten-courses/computing-context/blob/master/lectur
 ### Lecture 6: Plot
 
 - [Notes and
-Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/6-lecture.md)
+Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/6-lecture.ipynb)
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMSkZIOWJLbHFsQjg)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/6-experiment)
 
