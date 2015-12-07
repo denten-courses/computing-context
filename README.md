@@ -37,7 +37,7 @@ Readings](https://github.com/denten-courses/computing-context/blob/master/lectur
 - [Screencasts](https://drive.google.com/open?id=0B4OAOue0b3VMOU1yYW1JcUlNcWM)
 - [Experiments](https://github.com/denten-courses/computing-context/tree/master/experiments/5-experiment)
 
-### Lecture 6: Plot
+### Lecture 6: Summary and Sentiment
 
 - [Notes and
 Readings](https://github.com/denten-courses/computing-context/blob/master/lecture-notes/6-lecture.ipynb)
