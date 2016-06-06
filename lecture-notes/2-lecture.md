@@ -19,7 +19,7 @@ Tour](http://web.archive.org/web/20140224004333/http://tuxradar.com/content/take
 
 [Hunting the Whale I (shell)](https://github.com/xpmethod/dhnotes/blob/master/tutorials/command-line/109-text.md#hunting-the-whale)
 
-[Hunting the Whale II (iPython)](https://github.com/xpmethod/dhnotes/blob/master/python/python-4.md#hunting-the-whale)
+[Hunting the Whale II (iPython)](https://github.com/dh-notes/dhnotes/blob/master/tutorials/python/python-4.md)
 
 ### Home Experiment
 
