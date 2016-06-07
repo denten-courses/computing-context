@@ -1,4 +1,4 @@
-## Experiment 2: Hunting the Whale III
+## Hunting the Whale III
 
 Your task is to improve the word frequency algorithm from [Hunting the Whale
 II](https://github.com/xpmethod/dhnotes/blob/master/python/python-4.md#hunting-the-whale).
